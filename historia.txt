@@ -2,4 +2,8 @@ Esta es la Historia de Andres Molano
 
 Andres Molano nacio en colombia el 6 de octubre del 1983
 
-Hoy nos efocaremos en Git y en Otras cosas jajaja
+Hoy nos efocaremos en Git y en Otras Cosas jajaja
+
+Esta es una prueba para subir cosas al github... 
+
+No se exactamente como funciona 
